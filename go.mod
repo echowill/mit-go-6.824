@@ -1,3 +1,3 @@
-module github.com/nsiregar/mit-go
+module "6.824"
 
 go 1.13
